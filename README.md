@@ -1,8 +1,10 @@
 # insta_net
-Create and draw your instagram network
+# Create and draw your instagram network
 
 Packages you should install:
+
 pip install InstagramAPI
+
 pip install networkx
 
 You should frist create a text file named 'input.txt'. 
