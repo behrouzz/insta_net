@@ -15,3 +15,15 @@ You should first create a text file named 'input.txt'.
 Then, you can easily run the graph.py file to draw your network.
 
 Note that instagram has limitation for downloading huge data in a short period. So, it is recommended to limit the number of usernames that you type in 'input.txt'.
+
+## Example
+I'va used numbers instead of usernames for privacy. You can use usernames as the labels for nodes.
+You can zoom in each part of the network to see the relations better.
+
+![Alt Text](https://raw.githubusercontent.com/behrouzz/insta_net/master/g01.jpeg)
+
+Let's zoom in the center of the netwok:
+![Alt Text](https://raw.githubusercontent.com/behrouzz/insta_net/master/g02.jpeg)
+
+Let's zoom in more:
+![Alt Text](https://raw.githubusercontent.com/behrouzz/insta_net/master/g03.jpeg)
