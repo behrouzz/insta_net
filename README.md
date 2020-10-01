@@ -7,7 +7,7 @@ pip install networkx
 ```
 
 You should first create a text file named 'input.txt'. 
-1) In the first list you specify the folder that you want to save your downloaded data from instagram api. The folder name should be ended with '/'.
+1) In the first line you specify the folder that you want to save your downloaded data from instagram api. The folder name should be ended with '/'.
 2) In the second line you type your instagram username
 3) In the third line you type your instagram password
 4) From the 4th line you should type usernames of your friends (whom you follow), each username in a separate line.
